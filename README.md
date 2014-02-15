@@ -1,4 +1,4 @@
 lazuli
 ======
 
-Lazuli is a blog-aware, dynamic site generator in AngularJS
+Lazuli is a blog-aware, static site generator in AngularJS
